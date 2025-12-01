@@ -30,8 +30,9 @@
 
 
 ## ✨ **프로젝트 소개**
-### **프로젝트 목표**
 <div align="center">
+  
+### **프로젝트 목표**
 <img src="https://github.com/user-attachments/assets/8674020b-2af9-4583-ac7d-c8095cb99c54" width="70%" />
 
 ### **소셜 기능**
