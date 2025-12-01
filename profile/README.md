@@ -5,63 +5,6 @@
 
 <img src="https://github.com/user-attachments/assets/a164e657-8ca5-4b80-bfe4-2494e8a5e32d" width="70%" />
 
-## 📚 목차
-
-1. [프로젝트 소개](#프로젝트-소개)  
-2. [팀원 소개](#-기술-스택)  
-3. [기술 스택](#-팀원-소개)  
-4. [서비스 아키텍처](#-서비스-아키텍처)  
-5. [프로젝트 구조](#프로젝트-구조)
-6. [Git 협업 규칙](#-gitflow-규칙)
-
-
-## **프로젝트 소개**
-
- **소셜 기능**
-<img src="https://github.com/user-attachments/assets/8674020b-2af9-4583-ac7d-c8095cb99c54" width="70%" />
-
-<img src="https://github.com/user-attachments/assets/9ae1d411-cf8e-4eb6-8d58-0206b2c30a1b" width="70%" />
-
-<img src="https://github.com/user-attachments/assets/ec9bd565-5822-41de-90c4-0bfaee2c6d72" width="70%" />
-
----
-
- **홈 화면**
-<img src="https://github.com/user-attachments/assets/7178f87a-a110-426e-a6aa-97555dae374b" width="70%" />
-
----
-
- **가족 기능**
-<img src="https://github.com/user-attachments/assets/f844ec24-3d15-4ff4-8b30-31533fd7ac3b" width="70%" />
-
-<img src="https://github.com/user-attachments/assets/69ee2e55-e848-43da-90c2-471a3258fd45" width="70%" />
-
----
-
- **편지 기능**
-<img src="https://github.com/user-attachments/assets/e4dc0478-a8a8-4299-849d-c2acd0857370" width="70%" />
-
-<img src="https://github.com/user-attachments/assets/02374b93-0b1f-4ab9-998c-440ddf89880a" width="70%" />
-
----
-
- **영상통화 기능**
-<img src="https://github.com/user-attachments/assets/dda28f68-5c81-44dc-9dbe-5aae10e18b24" width="70%" />
-
-<img src="https://github.com/user-attachments/assets/cee5b807-387c-4105-905e-3af433aec911" width="70%" />
-
----
-
- **앨범 기능**
-<img src="https://github.com/user-attachments/assets/3d4f5f9c-3302-4ee3-a76c-2699cba39912" width="70%" />
-
-<img src="https://github.com/user-attachments/assets/a592d3ad-45d0-4c00-a0bc-768cae73c2e8" width="70%" />
-
-
-
-#### 🎦 GAMO 데모 영상
-[데모 영상 보러가기](https://www.youtube.com/watch?v=HsRESFRun6c&t=11s)
-
 ### 🤦‍♀️ 팀원 소개
 <div align="center">
 
@@ -76,6 +19,64 @@
 | [이채현](https://github.com/chaehyeon02)<br />앨범 퍼블리싱, 앨범 API | [김시영](https://github.com/1siis1)<br />회원·가족 UI, 소셜 로그인·JWT, FE 레이아웃 |
 
 </div>
+
+## 📚 목차
+
+1. [프로젝트 소개](#프로젝트-소개)  
+2. [기술 스택](#-팀원-소개)  
+3. [서비스 아키텍처](#-서비스-아키텍처)  
+4. [프로젝트 구조](#프로젝트-구조)
+5. [Git 협업 규칙](#-gitflow-규칙)
+
+
+## **프로젝트 소개**
+### **프로젝트 목표**
+<img src="https://github.com/user-attachments/assets/8674020b-2af9-4583-ac7d-c8095cb99c54" width="70%" />
+
+### **소셜 기능**
+
+<img src="https://github.com/user-attachments/assets/9ae1d411-cf8e-4eb6-8d58-0206b2c30a1b" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/ec9bd565-5822-41de-90c4-0bfaee2c6d72" width="70%" />
+
+---
+
+### **홈 화면**
+<img src="https://github.com/user-attachments/assets/7178f87a-a110-426e-a6aa-97555dae374b" width="70%" />
+
+---
+
+### **가족 기능**
+<img src="https://github.com/user-attachments/assets/f844ec24-3d15-4ff4-8b30-31533fd7ac3b" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/69ee2e55-e848-43da-90c2-471a3258fd45" width="70%" />
+
+---
+
+### **편지 기능**
+<img src="https://github.com/user-attachments/assets/e4dc0478-a8a8-4299-849d-c2acd0857370" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/02374b93-0b1f-4ab9-998c-440ddf89880a" width="70%" />
+
+---
+
+### **영상통화 기능**
+<img src="https://github.com/user-attachments/assets/dda28f68-5c81-44dc-9dbe-5aae10e18b24" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/cee5b807-387c-4105-905e-3af433aec911" width="70%" />
+
+---
+
+### **앨범 기능**
+<img src="https://github.com/user-attachments/assets/3d4f5f9c-3302-4ee3-a76c-2699cba39912" width="70%" />
+
+<img src="https://github.com/user-attachments/assets/a592d3ad-45d0-4c00-a0bc-768cae73c2e8" width="70%" />
+
+
+
+#### 🎦 GAMO 데모 영상
+[데모 영상 보러가기](https://www.youtube.com/watch?v=HsRESFRun6c&t=11s)
+
 
 ## 🛠 기술 스택
 
@@ -138,6 +139,22 @@ src
 ```
 ### FastAPI 레포지토리 폴더 구조
 
+```
+GAMO_AI_API/
+├── app/                 # 애플리케이션 코드
+│   ├── core/            # 환경설정
+│   ├── database/        # DB 연결 및 모델
+│   ├── routers/         # API 엔드포인트
+│   ├── utils/           # 유틸리티 함수
+│   └── main.py          # 서버 실행 파일
+├── venv/                # 가상 환경
+├── .env                 # 환경 변수
+├── .gitignore
+├── Jenkinsfile          # 배포 스크립트
+└── README.md
+
+```
+
 ## 📍 Git 협업 규칙
 
 - `develop` 브랜치에 직접 **commit/push 금지**  
@@ -145,4 +162,4 @@ src
 - Pull Request는 **2명 이상 코드 리뷰 후 merge**  
 - 기능 개발 시:
   - `develop` → `feature/기능` 브랜치 생성
-  - 기능 개발 완료 → PR 생성 → 리뷰 후 `develop` merge  
+  - 기능 개발 완료 → PR 생성 → 리뷰 후 `develop` merge
