@@ -10,12 +10,12 @@
 
 | Team Leader | Team Member | Team Member |
 |:-----------:|:-----------:|:-----------:|
-| <img src="https://github.com/pjhyun0225.png" width="150" /> | <img src="https://github.com/yjhss.png" width="150" /> | <img src="https://github.com/JiwonLee42.png" width="150" /> |
+| <img src="https://github.com/pjhyun0225.png" width="100" /> | <img src="https://github.com/yjhss.png" width="100" /> | <img src="https://github.com/JiwonLee42.png" width="100" /> |
 | [박지현](https://github.com/pjhyun0225)<br />키워드 추천, 편지 교정, 서버 배포 | [홍유진](https://github.com/yjhss)<br />편지 퍼블리싱, STT·SSE, 편지 API | [이지원](https://github.com/JiwonLee42)<br />영상통화·기록 UI 및 API, 녹음·STT API |
 
 | Team Member | Team Member |
 |:-----------:|:-----------:|
-| <img src="https://github.com/chaehyeon02.png" width="150" /> | <img src="https://github.com/1siis1.png" width="150" /> |
+| <img src="https://github.com/chaehyeon02.png" width="100" /> | <img src="https://github.com/1siis1.png" width="100" /> |
 | [이채현](https://github.com/chaehyeon02)<br />앨범 퍼블리싱, 앨범 API | [김시영](https://github.com/1siis1)<br />회원·가족 UI, 소셜 로그인·JWT, FE 레이아웃 |
 
 </div>
@@ -29,8 +29,9 @@
 5. [Git 협업 규칙](#-gitflow-규칙)
 
 
-## **프로젝트 소개**
+## ✨ **프로젝트 소개**
 ### **프로젝트 목표**
+<div align="center">
 <img src="https://github.com/user-attachments/assets/8674020b-2af9-4583-ac7d-c8095cb99c54" width="70%" />
 
 ### **소셜 기능**
@@ -72,7 +73,7 @@
 
 <img src="https://github.com/user-attachments/assets/a592d3ad-45d0-4c00-a0bc-768cae73c2e8" width="70%" />
 
-
+</div>
 
 #### 🎦 GAMO 데모 영상
 [데모 영상 보러가기](https://www.youtube.com/watch?v=HsRESFRun6c&t=11s)
@@ -98,10 +99,11 @@
 | **기타** | OAuth, WebSocket, SSE, WebRTC, Google Speech To Text, Gemini API, Google Cloud Storage |
 
 ## ⛏️ 서비스 아키텍쳐
+<div align="center">
+<img width="70%" src="https://github.com/user-attachments/assets/9a8ad650-43c2-4543-b232-ac1fb1d32179" />
+</div>
 
-<img width="644" height="321" alt="Image" src="https://github.com/user-attachments/assets/9a8ad650-43c2-4543-b232-ac1fb1d32179" />
-
-## 프로젝트 구조
+## 📁 프로젝트 구조
 ### Spring 레포지토리 폴더 구조 
 ```
 src
