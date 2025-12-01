@@ -100,7 +100,7 @@
 
 ## ⛏️ 서비스 아키텍쳐
 <div align="center">
-<img width="70%" src="https://github.com/user-attachments/assets/9a8ad650-43c2-4543-b232-ac1fb1d32179" />
+<img width="90%" src="https://github.com/user-attachments/assets/9a8ad650-43c2-4543-b232-ac1fb1d32179" />
 </div>
 
 ## 📁 프로젝트 구조
