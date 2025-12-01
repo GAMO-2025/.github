@@ -76,8 +76,8 @@
 
 </div>
 
-#### 🎦 GAMO 데모 영상
-[데모 영상 보러가기](https://www.youtube.com/watch?v=HsRESFRun6c&t=11s)
+### 🎦 GAMO 데모 영상
+https://www.youtube.com/watch?v=aL9ShCryn3M
 
 
 ## 🛠 기술 스택
