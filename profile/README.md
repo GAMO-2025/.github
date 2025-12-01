@@ -91,12 +91,14 @@
 | 구분 | 기술 |
 |------|------|
 | **Language** | Java,Python |
-| **Framework** | Spring Boot, FastApi |
-| **Database** | MySQL,JPA|
-| **Infra** | GCP |
+| **Framework** | Spring Boot, FastAPI |
+| **Database** | MySQL, JPA|
+| **Infra** | GCP, Nginx |
 | **CI/CD** | Jenkins |
 | **Auth** | JWT, Spring Security |
-| **기타** | OAuth, WebSocket, SSE, WebRTC, Google Speech To Text, Gemini API, Google Cloud Storage |
+| **기타** | OAuth, WebSocket, SSE, WebRTC, Google Cloud Storage |
+| **외부 API** | Google Speech To Text, Gemini API |
+| **frontend** | TailWindCss, HTML, Javascript, Thymeleaf  |
 
 ## ⛏️ 서비스 아키텍쳐
 <div align="center">
